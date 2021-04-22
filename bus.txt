@@ -1,0 +1,3 @@
+Bus no: 	8228
+Driver: 	Uzair		Arrival time: 	12	Departure Time: 	1
+From: 		Khi		To: 			Pesh
